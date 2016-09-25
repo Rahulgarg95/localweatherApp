@@ -1,0 +1,28 @@
+body {
+  font-family: 'Architects Daughter', cursive;
+  color: white;
+  background-repeat:no-repeat;
+}
+
+.status p {
+  font-size: 1.8em;
+  text-transform: capitalize;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+.temp{
+  cursor:pointer;
+}
+.temp:hover{
+  color:#005096;
+}
+
+h1 {
+  font-size: 40px;
+  letter-spacing: 3px;
+  
+}
+
